@@ -11,10 +11,3 @@
 
 ## Premissas, bloqueios e o que ficou de fora
 <!-- o que você assumiu quando o enunciado não dizia; o que te travou; o que não deu tempo e como faria -->
-
-## Horas gastas
-| Parte | Horas |
-|---|---|
-| Parte 1 — API | |
-| Parte 1 — Front | |
-| Parte 2 — Problemas | |
